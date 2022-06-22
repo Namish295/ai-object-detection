@@ -1,0 +1,14 @@
+body
+{
+    background:linear-gradient(to bottom right, rgb(88, 166, 255),rgb(255, 0, 0));
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn
+{
+    color: rgb(49, 49, 49);
+    border-radius: 20px;
+    border-color: black;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 2px;
+}
